@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'comic_sans_msregular';
+    src: url('font/comic.woff2') format('woff2'),
+         url('font/comic.woff2') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+*
+{
+    font-family: 'comic_sans_msregular';
+    font-size: 5vm;
+}
